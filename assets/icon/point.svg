@@ -1,0 +1,5 @@
+<svg id="money-square" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <rect id="Rectangle_640" data-name="Rectangle 640" width="55" height="55" transform="translate(0.5 0.5)" fill="#fcfcfc"/>
+  <rect id="Rectangle_641" data-name="Rectangle 641" width="55" height="55" transform="translate(0.5 0.5)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+  <path id="star_FILL0_wght400_GRAD0_opsz48" d="M12.718,28.781l5.632-3.372,5.632,3.408-1.507-6.386,4.951-4.305L20.9,17.552,18.35,11.525,15.8,17.516l-6.529.574,4.951,4.305ZM9.489,33.265l2.332-10.081L4,16.4l10.332-.9L18.35,6l4.018,9.507,10.332.9-7.821,6.78,2.332,10.081L18.35,27.92ZM18.35,20.529Z" transform="translate(9.65 8.367)" opacity="0.5"/>
+</svg>
